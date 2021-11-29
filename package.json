@@ -1,0 +1,21 @@
+{
+  "name": "grainchain",
+  "version": "1.0.0",
+  "description": "Logical test",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-color-table": "^1.0.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "test",
+    "grainchain"
+  ],
+  "author": "Angel Cantu",
+  "license": "ISC"
+}
